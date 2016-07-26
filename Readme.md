@@ -6,7 +6,8 @@ This script requires the data to be present in the same directory as the code. T
 - Merging training and testing set
 - Creating final tidy data
 
-## CodeBook:
+## CodeBook.md:
 All the variables are explained along with their units. The variuos steps in the cleaning process is explained step by step.
 
-## The Readme.md explains the various parts of this project.
+## Readme.md:
+The Readme.md explains the various parts of this project.
